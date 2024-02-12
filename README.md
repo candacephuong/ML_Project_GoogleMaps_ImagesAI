@@ -41,3 +41,4 @@ Steps 17+: I would include the above steps with Convolutional Neural Network Mod
 **Results**
 I compare all the test results, and select the best predictive model based on the results of accuracy matrix and my scientific judgement. Build a report with intepretative results, insights and recommendations.
 
+Please see other files in this folder for further information and results.
