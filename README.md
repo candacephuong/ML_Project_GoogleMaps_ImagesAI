@@ -16,9 +16,9 @@ Our objective is to predict the number depicted inside the image by using Artifi
 Here, I will use a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset.
 
 **Machine Learning - Deep Learning Process**
-The neccessay libraries and Python packages I use for this project are: numpy, pandas, seaborn, matplotlib, sklearn, tensorflow.keras
+The neccessay libraries and Python packages I use for this project are: numpy, pandas, seaborn, matplotlib, sklearn, tensorflow, keras, optimizer, and more.
 
-Steps that I took:
+Here are the steps that I took:
 1. Connect to cloud drive, working environment
 2. Import Python packages and libraries
 3. Load the data set for multidimensional array of data elements.
