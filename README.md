@@ -10,10 +10,10 @@ One of the most interesting tasks in deep learning is to recognize objects in na
 The SVHN dataset contains over 600,000 labeled digits cropped from street-level photos. It is one of the most popular image recognition datasets. It has been used in neural networks created by Google to improve the map quality by automatically transcribing the address numbers from a patch of pixels. The transcribed number with a known street address helps pinpoint the location of the building it represents.
 
 **Objective**
-Our objective is to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks. We will go through various models of each and finally select the one that is giving us the best performance.
+Our objective is to predict the number depicted inside the image by using Artificial or Fully Connected Feed Forward Neural Networks and Convolutional Neural Networks. I will go through various models of each and finally select the one that is giving us the best performance.
 
 **Dataset**
-Here, we will use a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset.
+Here, I will use a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset.
 
 **Machine Learning - Deep Learning Process**
 The neccessay libraries and Python packages I use for this project are: numpy, pandas, seaborn, matplotlib, sklearn, tensorflow.keras
