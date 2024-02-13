@@ -40,7 +40,7 @@ Here are the steps that I took:
 15. Build the classification report and the confusion matrix
 16. Intepret the results
 
-**Steps 17+:** I would include the above steps with Convolutional Neural Network Model 1 and 2 for the same dataset.
+**Steps 17+:** I would include the above steps with Convolutional Neural Network Model 1 and 2 for the same dataset with more complex architecture that addresses different issues when comparing the output of the prediction with the actual value. Then, iterate this process multiple time through backward propagation and then forward progation, continously, until the model output the highest accuracy results as possible.
 
 **Results**
 
